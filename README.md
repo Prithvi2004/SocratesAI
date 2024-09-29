@@ -1,6 +1,6 @@
-# Gemini Clone
+# SocratesAI
 
-Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
+SocratesAI is a React-based web application that replicates the functionality of the Google Gemini AI chatbot, powered by the Google Gemini API. This project provides an intuitive interface for users to interact with the Gemini model, allowing them to ask questions and receive informative responses in a conversational manner.
 
 ## Table of Contents
 
@@ -9,33 +9,34 @@ Gemini Clone is a project aimed at replicating the functionality of Gemini, powe
   - [Core Features](#core-features)
   - [Additional Features](#additional-features)
   - [Potential Enhancements](#potential-enhancements)
+- [Installation](#installation)
 
 ## Introduction
 
-This project introduces a React-based web application that functions as a clone of the Google Gemini AI chatbot. It provides a user-friendly interface for interacting with the powerful Gemini model, allowing you to ask questions and receive informative responses in a conversational manner.
+SocratesAI aims to deliver a seamless user experience while harnessing the capabilities of the Google Gemini model. It features a chat interface that supports simulated typing effects, creating a natural conversational flow.
 
 ## Features
 
 ### Core Features
 
-- **Chat Interface:** Provides a dedicated interface for interacting with the Gemini model in a conversational style.
-- **Simulated Typing Effect:** Enhances the user experience by mimicking a natural typing effect during responses.
-- **Google Gemini Integration:** Utilizes the capabilities of the Google Gemini model for generating informative responses.
+- **Chat Interface:** A dedicated space for engaging with the Gemini model conversationally.
+- **Simulated Typing Effect:** Mimics a natural typing experience during response delivery.
+- **Google Gemini Integration:** Utilizes the power of the Google Gemini model to generate relevant and informative responses.
 
 ### Additional Features
 
-- **React-based Development:** Leverages React's efficient component-based approach for building the application.
-- **CSS Styling:** Employs CSS to style the user interface for visual appeal and usability.
+- **React-based Development:** Built using React's efficient component-based architecture.
+- **CSS Styling:** Employs advanced CSS for a visually appealing and user-friendly interface.
 
 ### Potential Enhancements
 
-- **Conversation History:** Keeps a record of past interactions for reference.
-- **Advanced UI Elements:** Introduces additional features like emojis, formatting options, or user avatars.
-- **Enhanced Functionality:** Explores integrating functionalities like image search or language translation.
+- **Conversation History:** Maintains a record of past interactions for easy reference.
+- **Advanced UI Elements:** Incorporates features like emojis, text formatting options, and user avatars.
+- **Enhanced Functionality:** Explores integrating capabilities such as image search and language translation.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamakashpc/Gemini-Clone.git
+   git clone https://github.com/Prithvi2004/SocratesAI.git
